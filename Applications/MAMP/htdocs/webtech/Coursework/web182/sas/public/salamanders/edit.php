@@ -14,24 +14,24 @@ elseif($test == 'redirect') {
 }
 ?>
 
-<?php $page_title = 'Create Salamander'; ?>
+<?php $page_title = 'Edit Salamander'; ?>
 <?php include(SHARED_PATH . '/salamander-header.php'); ?>
 
 <div id="content">
 
   <a class="back-link" href="<?php echo url_for('/salamanders/index.php'); ?>">&laquo; Back to List</a>
 
-  <div class="new salamander">
-    <h1>Create Salamander</h1>
+  <div class="edit salamander">
+    <h1>Edit Salamander</h1>
 
     <form action="" method="post">
       <dl>
-        <dt>Name</dt>
+        <dt>Edit Name</dt>
         <dd><input type="text" name="salamander_name" value="" /></dd>
       </dl>
   
       <div id="Salamanders">
-        <input type="submit" value="Create Salamander" />
+        <input type="Edit" value="Edit Salamander" />
       </div>
     </form>
 
