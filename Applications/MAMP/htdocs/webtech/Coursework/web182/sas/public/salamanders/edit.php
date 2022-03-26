@@ -1,17 +1,17 @@
 <?php 
 require_once('../../private/initialize.php'); 
 
-$test = $_GET['test'] ?? '';
-
-if($test == '404') {
-  error_404();
-} 
-elseif($test == '500') {
-  error_500();
-} 
-elseif($test == 'redirect') {
-  redirect_to(url_for('/salamanders/index.php'));
+if(!isset($_GET['id'])) {
+  redirect_to(url_for('/salamanders/edit.php'));
 }
+
+$id = $_GET['id'];
+
+if(is_post_request()){
+  $salamander_name = $_POST['salamander_name'] ?? '';
+  echo "Salamander Name: " . $salamander_name . "<br />";
+}
+
 ?>
 
 <?php $page_title = 'Edit Salamander'; ?>
@@ -24,14 +24,14 @@ elseif($test == 'redirect') {
   <div class="edit salamander">
     <h1>Edit Salamander</h1>
 
-    <form action="" method="post">
+    <form action="<?php echo url_for('/salamanders/edit.php?id=' . h(u($id))); ?>" method="post">
       <dl>
-        <dt>Edit Name</dt>
+        <dt>Name</dt>
         <dd><input type="text" name="salamander_name" value="" /></dd>
       </dl>
   
       <div id="Salamanders">
-        <input type="Edit" value="Edit Salamander" />
+        <input type="submit" value="Edit Salamander" />
       </div>
     </form>
 
