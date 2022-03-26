@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Rentals: Southridge Park </title>
+    <link href="images/favicon.png" rel="icon">
+  </head>
+
+  <body>
+    <a href="#main-content">Skip to main content</a>
+    <header role="banner">
+      <h1>Rentals</h1>
+      <img src="images/logo.gif" alt="Southridge Park logo" width="100" height="127">
+      <nav role="navigation">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="facilities.html">Facilities</a></li>
+          <li><a href="rentals.html">Rentals</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main role="main" id="main-content" tabindex="-1">
+      <section>
+        <h2>Rent a Picnic Shelter</h2>
+        <img src="images/shelter.jpg" alt="A picnic shelter on a sunny day" width="350" height="234">
+        <p>There are two Southridge park shelters available for rent. The South Shelter can accommodate up to 50 people. The North Shelter can accommodate up to 150 people. The prices for reservations are listed in the table below.  </p>
+        <table>
+          <tr>
+            <td rowspan="2"></td>
+            <th colspan="2" scope="col">4 Hours</th>
+            <th colspan="2" scope="col">6 Hours</th>
+          </tr>
+          <tr>
+            <th scope="col">Resident</th>
+            <th scope="col">Non Resident</th>
+            <th scope="col">Resident</th>
+            <th scope="col">Non Resident</th>
+          </tr>
+          <tr>
+            <th scope="row">North Shelter</th>
+            <td>$125.00</td>
+            <td>$200.00</td>
+            <td>$240.00</td>
+            <td>$370.00</td>
+          </tr>
+          <tr>
+            <th scope="row">South Shelter</th>
+            <td>$80.00</td>
+            <td>$125.00</td>
+            <td>$150.00</td>
+            <td>$240.00</td>
+          </tr>
+        </table>
+        <p>If you would like to rent one of these shelters, please fill out the form below and we will contact you as soon as possible. All labels with * are required.</p>
+        <form action="form-tester.html" method="get">
+          <fieldset>
+            <legend>Contact Info</legend>
+            <label for="first-name">*First Name:</label>
+            <input type="text" id="first-name" name="first-name" required><br>
+
+            <label for="last-name">*Last Name:</label>
+            <input type="text" id="last-name" name="last-name" required><br>
+
+            <label for="email">*Email:</label>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="phone">*Phone:</label>
+            <input type="tel" id="phone" name="phone" required>
+          </fieldset>
+          <fieldset>
+            <legend>Rental Details</legend>
+
+            <label for="date">*Reservation Date:</label>
+            <input type="date" id="date" name="Reservation Date" required><br>
+
+            <label for="location">*Which Location would you like to rent?</label>
+            <select id="location" name="location" required>
+              <option value="">Pick Location</option>
+              <option value="North">North Shelter</option>
+              <option value="South">South Shelter</option>
+            </select><br>
+
+            <label for="type">What type of event are you renting for?</label>
+            <input type="text" id="type" name="Event Type" list="events">
+            <datalist id="events">
+              <option>Birthdays</option>
+              <option>Wedding</option>
+              <option>Reunion</option>
+              <option>Graduation</option>
+              <option>Quinceanera</option>
+            </datalist><br>
+
+            <label for="numbers">Approximately how many people will attend?</label>
+            <input type="number" id="numbers" name="numbers" min="1" ><br>
+
+            Will there be music at this event?<br>
+            <input type="radio" id="no-music" name="music" value="no">
+            <label for="no-music">No</label><br>
+            <input type="radio" id="yes-music" name="music" value="yes" required>
+            <label for="yes-music">Yes</label><br>
+            Will there be animals at this event?<br>
+            <input type="radio" id="no-animal" name="animal" value="no" required>
+            <label for="no-animal">No</label><br>
+            <input type="radio" id="yes-animal" name="animal" value="yes" required>
+            <label for="yes-animal">Yes</label><br>
+
+            <label for="comments">Other details, or comments?</label><br>
+            <textarea id="comments" name="comments" cols="50" rows="6"></textarea>
+          </fieldset>
+          <input type="checkbox" id="agree" name="agree" value="agreement" required>
+          <label for="agree">*I agree to the rental terms and services</label><br>
+          <input type="submit" value="Reserve Picnic Shelter">
+        </form>
+      </section>
+    </main>
+
+    <footer role="contentinfo">
+      <p><small>All content &copy; <time datetime="2021">2021</time> Southridge Park</small></p>
+      <address>
+        172 Ocean dr<br>
+        Southridge,<abbr title="North Carolina">NC</abbr>, 27526<br> 
+        (802-555-9876)<br>
+        Southridgepark@nc.gmail.com
+      </address>
+   </footer>
+  </body>
+
+</html>

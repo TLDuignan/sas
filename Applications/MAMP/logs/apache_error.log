@@ -1,0 +1,279 @@
+[Fri Aug 27 12:03:19.400553 2021] [:notice] [pid 16027] FastCGI: process manager initialized (pid 16027)
+[Fri Aug 27 12:03:19.406043 2021] [mpm_prefork:notice] [pid 16022] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Aug 27 12:03:19.406578 2021] [core:notice] [pid 16022] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Aug 27 12:17:01.609259 2021] [mpm_prefork:notice] [pid 16022] AH00169: caught SIGTERM, shutting down
+[Fri Aug 27 12:19:53.253765 2021] [:notice] [pid 17055] FastCGI: process manager initialized (pid 17055)
+[Fri Aug 27 12:19:53.264070 2021] [mpm_prefork:notice] [pid 17052] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Aug 27 12:19:53.264606 2021] [core:notice] [pid 17052] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Aug 27 12:28:55.676935 2021] [mpm_prefork:notice] [pid 17052] AH00169: caught SIGTERM, shutting down
+[Fri Aug 27 13:41:50.971797 2021] [:notice] [pid 17934] FastCGI: process manager initialized (pid 17934)
+[Fri Aug 27 13:41:50.989593 2021] [mpm_prefork:notice] [pid 17931] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Aug 27 13:41:50.990199 2021] [core:notice] [pid 17931] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Aug 27 15:21:10.809849 2021] [authz_core:error] [pid 17961] [client ::1:49825] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Aug 27 16:09:26.952446 2021] [php:error] [pid 17939] [client ::1:49936] script '/Applications/MAMP/htdocs/webtech/coursework/chapter02/circle.php' not found or unable to stat, referer: http://localhost:8888/webtech/coursework/chapter02/circle.html
+[Sat Aug 28 03:04:04.963781 2021] [mpm_prefork:notice] [pid 17931] AH00169: caught SIGTERM, shutting down
+[Wed Sep 01 13:10:01.679820 2021] [:notice] [pid 2842] FastCGI: process manager initialized (pid 2842)
+[Wed Sep 01 13:10:01.682632 2021] [mpm_prefork:notice] [pid 2837] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Wed Sep 01 13:10:01.683159 2021] [core:notice] [pid 2837] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Sep 01 13:11:50.792999 2021] [authz_core:error] [pid 2847] [client ::1:56473] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 13:12:58.321570 2021] [authz_core:error] [pid 2846] [client ::1:56479] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02 2/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Wed Sep 01 13:13:02.183930 2021] [authz_core:error] [pid 2846] [client ::1:56479] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02 3/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Wed Sep 01 15:53:05.467559 2021] [mpm_prefork:notice] [pid 2837] AH00169: caught SIGTERM, shutting down
+[Wed Sep 01 16:12:12.799567 2021] [:notice] [pid 4754] FastCGI: process manager initialized (pid 4754)
+[Wed Sep 01 16:12:12.812154 2021] [mpm_prefork:notice] [pid 4751] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Wed Sep 01 16:12:12.812923 2021] [core:notice] [pid 4751] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Sep 01 16:12:45.458615 2021] [authz_core:error] [pid 4785] [client ::1:56893] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 16:18:59.033435 2021] [authz_core:error] [pid 4790] [client ::1:56910] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Wed Sep 01 16:19:56.360966 2021] [authz_core:error] [pid 4758] [client ::1:56920] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 16:24:19.953069 2021] [authz_core:error] [pid 4790] [client ::1:56935] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 17:13:37.058516 2021] [authz_core:error] [pid 4755] [client ::1:57033] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 17:13:39.631516 2021] [authz_core:error] [pid 4755] [client ::1:57033] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Wed Sep 01 17:19:57.348944 2021] [authz_core:error] [pid 4759] [client ::1:57054] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Sep 01 17:20:03.728476 2021] [authz_core:error] [pid 4759] [client ::1:57054] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Thu Sep 02 11:40:23.272542 2021] [mpm_prefork:notice] [pid 4751] AH00169: caught SIGTERM, shutting down
+[Thu Sep 02 12:12:41.453006 2021] [:notice] [pid 10466] FastCGI: process manager initialized (pid 10466)
+[Thu Sep 02 12:12:41.467119 2021] [mpm_prefork:notice] [pid 10464] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Sep 02 12:12:41.467678 2021] [core:notice] [pid 10464] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Sep 02 12:21:09.578388 2021] [authz_core:error] [pid 10860] [client ::1:58050] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Sep 02 12:21:11.284094 2021] [authz_core:error] [pid 10860] [client ::1:58050] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Thu Sep 02 12:32:07.345211 2021] [authz_core:error] [pid 10859] [client ::1:58086] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Sep 02 12:32:10.698952 2021] [authz_core:error] [pid 10859] [client ::1:58086] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter02 2/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Thu Sep 02 12:44:56.325664 2021] [authz_core:error] [pid 10865] [client ::1:58167] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Sep 02 12:55:58.925489 2021] [authz_core:error] [pid 10859] [client ::1:58207] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Sep 02 13:16:29.052636 2021] [mpm_prefork:notice] [pid 10464] AH00169: caught SIGTERM, shutting down
+[Sat Sep 11 10:47:42.667924 2021] [:notice] [pid 32951] FastCGI: process manager initialized (pid 32951)
+[Sat Sep 11 10:47:42.673238 2021] [mpm_prefork:notice] [pid 32945] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Sep 11 10:47:42.673798 2021] [core:notice] [pid 32945] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Sep 11 11:35:08.923882 2021] [mpm_prefork:notice] [pid 32945] AH00169: caught SIGTERM, shutting down
+[Sat Sep 11 11:46:25.356848 2021] [:notice] [pid 35622] FastCGI: process manager initialized (pid 35622)
+[Sat Sep 11 11:46:25.369284 2021] [mpm_prefork:notice] [pid 35619] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Sep 11 11:46:25.370099 2021] [core:notice] [pid 35619] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Sep 11 17:06:23.675337 2021] [mpm_prefork:notice] [pid 35619] AH00169: caught SIGTERM, shutting down
+[Fri Sep 17 14:59:40.383049 2021] [:notice] [pid 16486] FastCGI: process manager initialized (pid 16486)
+[Fri Sep 17 14:59:40.384623 2021] [mpm_prefork:notice] [pid 16481] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Sep 17 14:59:40.385292 2021] [core:notice] [pid 16481] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Sep 17 15:20:35.455247 2021] [authz_core:error] [pid 16515] [client ::1:54210] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Sep 17 18:42:25.628276 2021] [mpm_prefork:notice] [pid 16481] AH00169: caught SIGTERM, shutting down
+[Mon Sep 20 12:02:31.603759 2021] [:notice] [pid 24218] FastCGI: process manager initialized (pid 24218)
+[Mon Sep 20 12:02:31.608827 2021] [mpm_prefork:notice] [pid 24213] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Sep 20 12:02:31.609634 2021] [core:notice] [pid 24213] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Sep 20 13:43:29.706143 2021] [authz_core:error] [pid 27141] [client ::1:59578] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Mon Sep 20 13:43:32.356320 2021] [authz_core:error] [pid 27141] [client ::1:59578] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/exam1/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Mon Sep 20 16:19:31.097021 2021] [mpm_prefork:notice] [pid 24213] AH00169: caught SIGTERM, shutting down
+[Thu Sep 23 19:13:20.372766 2021] [:notice] [pid 36149] FastCGI: process manager initialized (pid 36149)
+[Thu Sep 23 19:13:20.375490 2021] [mpm_prefork:notice] [pid 36145] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Sep 23 19:13:20.376023 2021] [core:notice] [pid 36145] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Sep 23 19:13:53.224946 2021] [authz_core:error] [pid 36175] [client ::1:50870] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/chapter05/.DS_Store
+[Thu Sep 23 19:16:06.314798 2021] [authz_core:error] [pid 36153] [client ::1:50898] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Sep 23 19:16:08.550775 2021] [authz_core:error] [pid 36153] [client ::1:50898] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/exam1/.DS_Store, referer: http://localhost:8888/webtech/coursework/
+[Thu Sep 23 19:18:25.386980 2021] [mpm_prefork:notice] [pid 36145] AH00169: caught SIGTERM, shutting down
+[Fri Oct 01 16:19:30.312117 2021] [:notice] [pid 12725] FastCGI: process manager initialized (pid 12725)
+[Fri Oct 01 16:19:30.322093 2021] [mpm_prefork:notice] [pid 12719] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Oct 01 16:19:30.328045 2021] [core:notice] [pid 12719] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Oct 01 16:21:25.725181 2021] [authz_core:error] [pid 12728] [client ::1:62952] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Oct 01 17:46:33.175342 2021] [mpm_prefork:notice] [pid 12719] AH00169: caught SIGTERM, shutting down
+[Sat Oct 02 16:12:59.259694 2021] [:notice] [pid 17278] FastCGI: process manager initialized (pid 17278)
+[Sat Oct 02 16:12:59.271216 2021] [mpm_prefork:notice] [pid 17275] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Oct 02 16:12:59.271901 2021] [core:notice] [pid 17275] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Oct 02 16:13:43.608023 2021] [authz_core:error] [pid 17329] [client ::1:63968] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sat Oct 02 17:52:36.418508 2021] [mpm_prefork:notice] [pid 17275] AH00169: caught SIGTERM, shutting down
+[Thu Oct 07 11:29:23.567530 2021] [:notice] [pid 29882] FastCGI: process manager initialized (pid 29882)
+[Thu Oct 07 11:29:23.572521 2021] [mpm_prefork:notice] [pid 29879] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Oct 07 11:29:23.573328 2021] [core:notice] [pid 29879] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Oct 07 15:21:28.915397 2021] [authz_core:error] [pid 29886] [client ::1:56636] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Oct 07 17:17:15.168153 2021] [mpm_prefork:notice] [pid 29879] AH00169: caught SIGTERM, shutting down
+[Sat Oct 16 10:59:37.838282 2021] [:notice] [pid 16368] FastCGI: process manager initialized (pid 16368)
+[Sat Oct 16 10:59:37.841772 2021] [mpm_prefork:notice] [pid 16363] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Oct 16 10:59:37.842309 2021] [core:notice] [pid 16363] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Oct 17 10:56:38.122592 2021] [authz_core:error] [pid 16369] [client ::1:56971] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Oct 17 16:54:52.274869 2021] [mpm_prefork:notice] [pid 16363] AH00169: caught SIGTERM, shutting down
+[Tue Oct 19 13:54:31.246020 2021] [:notice] [pid 31614] FastCGI: process manager initialized (pid 31614)
+[Tue Oct 19 13:54:31.248064 2021] [mpm_prefork:notice] [pid 31610] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Oct 19 13:54:31.248611 2021] [core:notice] [pid 31610] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Oct 19 13:58:43.559223 2021] [authz_core:error] [pid 31615] [client ::1:62689] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Oct 19 14:32:27.148344 2021] [mpm_prefork:notice] [pid 31610] AH00169: caught SIGTERM, shutting down
+[Tue Oct 19 14:37:33.439419 2021] [:notice] [pid 32354] FastCGI: process manager initialized (pid 32354)
+[Tue Oct 19 14:37:33.448669 2021] [mpm_prefork:notice] [pid 32351] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Oct 19 14:37:33.449169 2021] [core:notice] [pid 32351] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Oct 19 14:38:58.488371 2021] [authz_core:error] [pid 32359] [client ::1:62786] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Oct 19 16:56:06.000854 2021] [mpm_prefork:notice] [pid 32351] AH00169: caught SIGTERM, shutting down
+[Fri Oct 29 15:50:11.718895 2021] [:notice] [pid 56085] FastCGI: process manager initialized (pid 56085)
+[Fri Oct 29 15:50:11.722452 2021] [mpm_prefork:notice] [pid 56081] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Oct 29 15:50:11.722973 2021] [core:notice] [pid 56081] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Oct 29 15:52:02.496746 2021] [authz_core:error] [pid 56144] [client ::1:60213] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Oct 31 13:11:59.566893 2021] [authz_core:error] [pid 56087] [client ::1:64483] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Oct 31 15:05:31.937013 2021] [mpm_prefork:notice] [pid 56081] AH00169: caught SIGTERM, shutting down
+[Wed Nov 03 16:14:49.411175 2021] [:notice] [pid 74878] FastCGI: process manager initialized (pid 74878)
+[Wed Nov 03 16:14:49.416762 2021] [mpm_prefork:notice] [pid 74874] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Wed Nov 03 16:14:49.417249 2021] [core:notice] [pid 74874] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Nov 03 16:22:28.641893 2021] [authz_core:error] [pid 75078] [client ::1:56989] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Nov 03 18:22:05.807001 2021] [mpm_prefork:notice] [pid 74874] AH00169: caught SIGTERM, shutting down
+[Thu Nov 04 11:28:43.951058 2021] [:notice] [pid 78781] FastCGI: process manager initialized (pid 78781)
+[Thu Nov 04 11:28:43.956393 2021] [mpm_prefork:notice] [pid 78777] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Nov 04 11:28:43.956937 2021] [core:notice] [pid 78777] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Nov 04 11:29:03.842759 2021] [authz_core:error] [pid 78808] [client ::1:59802] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Nov 04 11:34:31.748035 2021] [mpm_prefork:notice] [pid 78777] AH00169: caught SIGTERM, shutting down
+[Tue Nov 09 11:09:03.803833 2021] [:notice] [pid 91625] FastCGI: process manager initialized (pid 91625)
+[Tue Nov 09 11:09:03.814448 2021] [mpm_prefork:notice] [pid 91619] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Nov 09 11:09:03.815096 2021] [core:notice] [pid 91619] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Nov 09 11:09:38.753966 2021] [authz_core:error] [pid 91652] [client ::1:61938] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Nov 09 11:22:59.983473 2021] [mpm_prefork:notice] [pid 91619] AH00169: caught SIGTERM, shutting down
+[Sun Nov 14 12:55:47.235175 2021] [:notice] [pid 4696] FastCGI: process manager initialized (pid 4696)
+[Sun Nov 14 12:55:47.238087 2021] [mpm_prefork:notice] [pid 4691] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sun Nov 14 12:55:47.238582 2021] [core:notice] [pid 4691] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Nov 14 13:56:21.800646 2021] [mpm_prefork:notice] [pid 4691] AH00169: caught SIGTERM, shutting down
+[Sun Nov 14 13:56:29.026136 2021] [:notice] [pid 5576] FastCGI: process manager initialized (pid 5576)
+[Sun Nov 14 13:56:29.036765 2021] [mpm_prefork:notice] [pid 5573] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sun Nov 14 13:56:29.037301 2021] [core:notice] [pid 5573] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Nov 14 21:49:12.848436 2021] [mpm_prefork:notice] [pid 5573] AH00169: caught SIGTERM, shutting down
+[Mon Nov 15 10:14:45.478754 2021] [:notice] [pid 10721] FastCGI: process manager initialized (pid 10721)
+[Mon Nov 15 10:14:45.485639 2021] [mpm_prefork:notice] [pid 10716] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Nov 15 10:14:45.486233 2021] [core:notice] [pid 10716] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Nov 15 10:18:17.860818 2021] [mpm_prefork:notice] [pid 10716] AH00169: caught SIGTERM, shutting down
+[Mon Nov 15 13:15:38.134911 2021] [:notice] [pid 12301] FastCGI: process manager initialized (pid 12301)
+[Mon Nov 15 13:15:38.141311 2021] [mpm_prefork:notice] [pid 12297] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Nov 15 13:15:38.141925 2021] [core:notice] [pid 12297] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Nov 15 13:50:16.244466 2021] [authz_core:error] [pid 12302] [client ::1:53092] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Mon Nov 15 17:26:43.535761 2021] [mpm_prefork:notice] [pid 12297] AH00169: caught SIGTERM, shutting down
+[Tue Nov 16 16:25:34.066506 2021] [:notice] [pid 20446] FastCGI: process manager initialized (pid 20446)
+[Tue Nov 16 16:25:34.074739 2021] [mpm_prefork:notice] [pid 20442] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Nov 16 16:25:34.075298 2021] [core:notice] [pid 20442] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Nov 16 16:25:56.794152 2021] [authz_core:error] [pid 20478] [client ::1:59292] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Nov 16 18:01:14.137976 2021] [mpm_prefork:notice] [pid 20442] AH00169: caught SIGTERM, shutting down
+[Tue Nov 16 18:04:51.201754 2021] [:notice] [pid 22231] FastCGI: process manager initialized (pid 22231)
+[Tue Nov 16 18:04:51.210812 2021] [mpm_prefork:notice] [pid 22228] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Nov 16 18:04:51.211482 2021] [core:notice] [pid 22228] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Nov 16 18:05:26.061061 2021] [authz_core:error] [pid 22235] [client ::1:59659] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Nov 16 18:49:30.399698 2021] [authz_core:error] [pid 22232] [client ::1:59845] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Nov 16 21:24:25.063060 2021] [mpm_prefork:notice] [pid 22228] AH00169: caught SIGTERM, shutting down
+[Sat Nov 20 16:09:20.332849 2021] [:notice] [pid 3637] FastCGI: process manager initialized (pid 3637)
+[Sat Nov 20 16:09:20.341172 2021] [mpm_prefork:notice] [pid 3633] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Nov 20 16:09:20.341721 2021] [core:notice] [pid 3633] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Nov 20 16:16:36.855025 2021] [authz_core:error] [pid 3639] [client ::1:50729] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Nov 21 13:58:20.933048 2021] [authz_core:error] [pid 3643] [client ::1:53076] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Nov 21 15:37:32.127337 2021] [mpm_prefork:notice] [pid 3633] AH00169: caught SIGTERM, shutting down
+[Fri Dec 03 11:15:21.969209 2021] [:notice] [pid 13332] FastCGI: process manager initialized (pid 13332)
+[Fri Dec 03 11:15:21.970833 2021] [mpm_prefork:notice] [pid 13283] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Dec 03 11:15:21.971363 2021] [core:notice] [pid 13283] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Dec 03 11:15:38.195898 2021] [authz_core:error] [pid 13350] [client ::1:64540] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Dec 03 11:15:42.413138 2021] [authz_core:error] [pid 13350] [client ::1:64540] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/test3/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Dec 03 14:53:39.500293 2021] [authz_core:error] [pid 14225] [client ::1:65034] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Dec 03 14:53:45.136508 2021] [authz_core:error] [pid 14226] [client ::1:65035] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/test3/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Dec 03 16:02:22.499546 2021] [authz_core:error] [pid 13335] [client ::1:65286] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Dec 03 16:02:26.738552 2021] [authz_core:error] [pid 13335] [client ::1:65286] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/test3/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Dec 03 23:24:00.746419 2021] [core:notice] [pid 13283] AH00052: child pid 13337 exit signal Abort trap (6)
+[Fri Dec 03 23:24:00.752963 2021] [mpm_prefork:notice] [pid 13283] AH00169: caught SIGTERM, shutting down
+[Mon Dec 06 11:17:45.008619 2021] [:notice] [pid 5479] FastCGI: process manager initialized (pid 5479)
+[Mon Dec 06 11:17:45.013783 2021] [mpm_prefork:notice] [pid 5474] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Dec 06 11:17:45.014452 2021] [core:notice] [pid 5474] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Dec 06 11:39:01.375070 2021] [authz_core:error] [pid 5791] [client ::1:61701] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Mon Dec 06 11:39:04.762602 2021] [authz_core:error] [pid 5791] [client ::1:61701] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/test3/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Mon Dec 06 11:56:10.318094 2021] [mpm_prefork:notice] [pid 5474] AH00169: caught SIGTERM, shutting down
+[Tue Jan 11 11:30:19.480905 2022] [:notice] [pid 23769] FastCGI: process manager initialized (pid 23769)
+[Tue Jan 11 11:30:19.497765 2022] [mpm_prefork:notice] [pid 23763] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Jan 11 11:30:19.498541 2022] [core:notice] [pid 23763] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Jan 11 11:30:46.708162 2022] [authz_core:error] [pid 23805] [client ::1:55275] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 11 11:30:51.323942 2022] [authz_core:error] [pid 23805] [client ::1:55275] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/CIS 115/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 12 10:31:02.098914 2022] [authz_core:error] [pid 23771] [client ::1:50249] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 15:08:25.346487 2022] [authz_core:error] [pid 23774] [client ::1:54652] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:18:38.861305 2022] [authz_core:error] [pid 23808] [client ::1:55336] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/chapter11/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 12 17:20:01.170144 2022] [authz_core:error] [pid 23800] [client ::1:55341] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:20:05.597522 2022] [authz_core:error] [pid 23800] [client ::1:55341] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:20:56.343824 2022] [authz_core:error] [pid 23771] [client ::1:55344] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:20:59.535857 2022] [authz_core:error] [pid 23771] [client ::1:55344] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 12 17:21:01.270950 2022] [authz_core:error] [pid 23771] [client ::1:55344] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/asgn00/.DS_Store, referer: http://localhost:8888/webtech/Coursework/web182/
+[Wed Jan 12 17:24:39.576591 2022] [authz_core:error] [pid 23808] [client ::1:55357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:24:43.423443 2022] [authz_core:error] [pid 23808] [client ::1:55357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 12 17:24:46.727212 2022] [authz_core:error] [pid 23808] [client ::1:55357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/chapter11/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 12 17:30:34.779602 2022] [authz_core:error] [pid 23800] [client ::1:55375] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 12 17:30:36.797035 2022] [authz_core:error] [pid 23800] [client ::1:55375] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/chapter11/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Jan 13 16:16:48.235132 2022] [authz_core:error] [pid 23805] [client ::1:59273] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Jan 13 16:17:03.326495 2022] [authz_core:error] [pid 23808] [client ::1:59274] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/chapter11/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Tue Jan 18 10:44:03.496362 2022] [mpm_prefork:notice] [pid 23763] AH00169: caught SIGTERM, shutting down
+[Tue Jan 18 10:44:17.901031 2022] [:notice] [pid 53614] FastCGI: process manager initialized (pid 53614)
+[Tue Jan 18 10:44:17.912343 2022] [mpm_prefork:notice] [pid 53610] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Tue Jan 18 10:44:17.912853 2022] [core:notice] [pid 53610] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Jan 18 10:44:52.686277 2022] [authz_core:error] [pid 53615] [client ::1:64757] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 18 13:33:14.775864 2022] [authz_core:error] [pid 53617] [client ::1:65001] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 18 16:11:02.413406 2022] [authz_core:error] [pid 53634] [client ::1:49247] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 18 16:12:01.698013 2022] [authz_core:error] [pid 53654] [client ::1:49253] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 18 16:12:17.261531 2022] [authz_core:error] [pid 53634] [client ::1:49254] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Tue Jan 18 16:12:20.016723 2022] [authz_core:error] [pid 53634] [client ::1:49254] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Tue Jan 18 16:14:07.677159 2022] [authz_core:error] [pid 53634] [client ::1:49265] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 14:40:33.734391 2022] [authz_core:error] [pid 53617] [client ::1:52305] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 19 14:40:36.295085 2022] [authz_core:error] [pid 53617] [client ::1:52305] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 15:14:27.486408 2022] [authz_core:error] [pid 53618] [client ::1:52387] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 19 15:14:29.149502 2022] [authz_core:error] [pid 53618] [client ::1:52387] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 15:15:55.584653 2022] [authz_core:error] [pid 53615] [client ::1:52394] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 19 15:15:58.142627 2022] [authz_core:error] [pid 53615] [client ::1:52394] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 15:20:25.332219 2022] [authz_core:error] [pid 53654] [client ::1:52410] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 19 15:20:27.222200 2022] [authz_core:error] [pid 53654] [client ::1:52410] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 15:22:30.036817 2022] [authz_core:error] [pid 53618] [client ::1:52422] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Jan 19 15:22:31.687974 2022] [authz_core:error] [pid 53618] [client ::1:52422] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Wed Jan 19 15:52:52.163999 2022] [mpm_prefork:notice] [pid 53610] AH00169: caught SIGTERM, shutting down
+[Thu Jan 27 12:13:17.520084 2022] [:notice] [pid 9681] FastCGI: process manager initialized (pid 9681)
+[Thu Jan 27 12:13:17.530609 2022] [mpm_prefork:notice] [pid 9668] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Jan 27 12:13:17.531288 2022] [core:notice] [pid 9668] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Jan 27 13:21:36.474899 2022] [authz_core:error] [pid 9682] [client ::1:54640] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Jan 27 13:21:41.583558 2022] [authz_core:error] [pid 9683] [client ::1:54641] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Jan 27 13:58:52.739421 2022] [authz_core:error] [pid 12027] [client ::1:54778] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Jan 27 14:06:25.714539 2022] [authz_core:error] [pid 9685] [client ::1:54820] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Jan 27 14:36:37.432017 2022] [authz_core:error] [pid 9682] [client ::1:54956] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Jan 27 14:36:39.897481 2022] [authz_core:error] [pid 9682] [client ::1:54956] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Jan 27 14:43:52.032794 2022] [mpm_prefork:notice] [pid 9668] AH00169: caught SIGTERM, shutting down
+[Thu Feb 03 12:32:47.047052 2022] [:notice] [pid 1061] FastCGI: process manager initialized (pid 1061)
+[Thu Feb 03 12:32:47.050813 2022] [mpm_prefork:notice] [pid 1050] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Feb 03 12:32:47.051426 2022] [core:notice] [pid 1050] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Feb 03 14:23:00.241695 2022] [authz_core:error] [pid 1065] [client ::1:51257] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Feb 03 14:23:38.532647 2022] [authz_core:error] [pid 1064] [client ::1:51277] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Feb 03 14:25:28.993683 2022] [mpm_prefork:notice] [pid 1050] AH00169: caught SIGTERM, shutting down
+[Thu Feb 03 14:25:31.591761 2022] [:notice] [pid 3089] FastCGI: process manager initialized (pid 3089)
+[Thu Feb 03 14:25:31.603242 2022] [mpm_prefork:notice] [pid 3085] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/8.0.8 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Feb 03 14:25:31.603915 2022] [core:notice] [pid 3085] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Feb 03 14:30:38.925346 2022] [mpm_prefork:notice] [pid 3085] AH00169: caught SIGTERM, shutting down
+[Thu Feb 03 14:30:44.528549 2022] [:notice] [pid 3700] FastCGI: process manager initialized (pid 3700)
+[Thu Feb 03 14:30:44.535102 2022] [mpm_prefork:notice] [pid 3688] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Feb 03 14:30:44.535655 2022] [core:notice] [pid 3688] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Feb 03 14:30:48.779318 2022] [mpm_prefork:notice] [pid 3688] AH00169: caught SIGTERM, shutting down
+[Thu Feb 03 14:30:54.934548 2022] [:notice] [pid 3881] FastCGI: process manager initialized (pid 3881)
+[Thu Feb 03 14:30:54.942204 2022] [mpm_prefork:notice] [pid 3878] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Feb 03 14:30:54.942792 2022] [core:notice] [pid 3878] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Feb 03 17:50:53.709463 2022] [authz_core:error] [pid 5956] [client ::1:53058] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Feb 04 11:01:33.684163 2022] [authz_core:error] [pid 3886] [client ::1:56530] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Feb 04 13:38:02.842331 2022] [authz_core:error] [pid 3885] [client ::1:58496] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Feb 06 17:03:30.531303 2022] [mpm_prefork:notice] [pid 3878] AH00169: caught SIGTERM, shutting down
+[Fri Feb 18 11:20:19.182809 2022] [:notice] [pid 30254] FastCGI: process manager initialized (pid 30254)
+[Fri Feb 18 11:20:19.187676 2022] [mpm_prefork:notice] [pid 30247] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Feb 18 11:20:19.188183 2022] [core:notice] [pid 30247] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Feb 18 11:33:30.966682 2022] [authz_core:error] [pid 30257] [client ::1:58035] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Feb 18 11:33:33.083289 2022] [authz_core:error] [pid 30257] [client ::1:58035] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Feb 18 11:45:51.076529 2022] [authz_core:error] [pid 30300] [client ::1:58091] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Feb 18 11:46:17.985229 2022] [authz_core:error] [pid 30257] [client ::1:58093] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Fri Feb 18 11:47:01.805924 2022] [authz_core:error] [pid 30258] [client ::1:58097] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Fri Feb 18 11:47:42.484775 2022] [authz_core:error] [pid 30259] [client ::1:58101] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Sun Feb 20 12:02:48.694081 2022] [authz_core:error] [pid 30298] [client ::1:61827] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Sun Feb 20 12:02:50.379343 2022] [authz_core:error] [pid 30298] [client ::1:61827] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Tue Feb 22 11:22:34.532848 2022] [mpm_prefork:notice] [pid 30247] AH00169: caught SIGTERM, shutting down
+[Wed Mar 16 11:46:34.115618 2022] [:notice] [pid 4511] FastCGI: process manager initialized (pid 4511)
+[Wed Mar 16 11:46:34.123762 2022] [mpm_prefork:notice] [pid 4502] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Wed Mar 16 11:46:34.125270 2022] [core:notice] [pid 4502] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 16 11:46:54.335968 2022] [authz_core:error] [pid 4515] [client ::1:52659] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Mar 16 11:47:12.615653 2022] [authz_core:error] [pid 4537] [client ::1:52670] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Mar 16 11:48:59.916523 2022] [authz_core:error] [pid 4516] [client ::1:52675] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Wed Mar 16 11:49:01.750674 2022] [authz_core:error] [pid 4516] [client ::1:52675] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 11:24:01.107957 2022] [mpm_prefork:notice] [pid 4502] AH00169: caught SIGTERM, shutting down
+[Thu Mar 17 12:10:20.806024 2022] [:notice] [pid 1612] FastCGI: process manager initialized (pid 1612)
+[Thu Mar 17 12:10:20.809570 2022] [mpm_prefork:notice] [pid 1606] AH00163: Apache/2.4.48 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Mar 17 12:10:20.810065 2022] [core:notice] [pid 1606] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Mar 17 12:10:39.264352 2022] [authz_core:error] [pid 1614] [client ::1:49710] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Mar 17 12:10:40.667480 2022] [authz_core:error] [pid 1614] [client ::1:49710] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 12:11:31.346001 2022] [authz_core:error] [pid 1616] [client ::1:49733] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 12:20:43.184056 2022] [authz_core:error] [pid 1656] [client ::1:49841] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Mar 17 12:20:44.836219 2022] [authz_core:error] [pid 1656] [client ::1:49841] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 12:28:50.272925 2022] [authz_core:error] [pid 1658] [client ::1:49899] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/PHP exercise files/.DS_Store, referer: http://localhost:8888/webtech/Coursework/web182/
+[Thu Mar 17 12:36:02.300612 2022] [authz_core:error] [pid 1656] [client ::1:49987] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Mar 17 12:36:03.962666 2022] [authz_core:error] [pid 1656] [client ::1:49987] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 12:36:32.195739 2022] [authz_core:error] [pid 1900] [client ::1:49989] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/sas/.DS_Store, referer: http://localhost:8888/webtech/Coursework/web182/
+[Thu Mar 17 14:24:01.012515 2022] [authz_core:error] [pid 1900] [client ::1:50357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/.DS_Store, referer: http://localhost:8888/webtech/
+[Thu Mar 17 14:24:02.444198 2022] [authz_core:error] [pid 1900] [client ::1:50357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/.DS_Store, referer: http://localhost:8888/webtech/Coursework/
+[Thu Mar 17 14:24:04.277282 2022] [authz_core:error] [pid 1900] [client ::1:50357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/webtech/Coursework/web182/sas/.DS_Store, referer: http://localhost:8888/webtech/Coursework/web182/
