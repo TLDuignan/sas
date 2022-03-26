@@ -24,7 +24,7 @@ elseif($test == 'redirect') {
   <div class="new salamander">
     <h1>Create Salamander</h1>
 
-    <form action="" method="post">
+    <form action="<?php echo url_for('/salamanders/create.php'); ?>" method="post">
       <dl>
         <dt>Name</dt>
         <dd><input type="text" name="salamander_name" value="" /></dd>
