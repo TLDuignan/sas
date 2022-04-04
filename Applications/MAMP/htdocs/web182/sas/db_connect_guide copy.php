@@ -5,16 +5,27 @@
 
   // Credentials
   $dbhost = 'localhost';
-  $dbuser = 'sally';
+  $dbuser = 's5otrtkxma10s';
   $dbpass = 'somePas55word';
   $dbname = 'salamanders';
 
   // 1. Create a database connection
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
+  if(mysqli_connect_errno()) {
+    $msg = "Database connection failed: ";
+    $msg .= mysqli_connect_error();
+    $msg .= " (" . mysqli_connect_errno() . ")";
+    exit($msg);
+  }
+
   // 2. Perform database query
   $query = "SELECT * FROM salamanders";
   $result_set = mysqli_query($connection, $query);
+
+  if (!$result_set) {
+    exit("Database query failed.");
+  }
 
   // 3. Use returned data (if any)
   while($salamander = mysqli_fetch_assoc($result_set)) {
