@@ -5,8 +5,8 @@
 
   // Credentials
   $DB_SERVER = 'localhost';
-  $dbuser = 'sally';
-  $dbpass = 'somePa55word';
+  $dbuser = '';
+  $dbpass = '';
   $dbname = 'salamanders';
 
   // 1. Create a database connection
