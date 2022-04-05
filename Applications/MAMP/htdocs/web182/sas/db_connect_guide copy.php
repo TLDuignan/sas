@@ -4,9 +4,9 @@
   // of database interaction using PHP.
 
   // Credentials
-  $dbhost = 'localhost';
-  $dbuser = 's5otrtkxma10s';
-  $dbpass = 'somePas55word';
+  $DB_SERVER = 'localhost';
+  $dbuser = 'sally';
+  $dbpass = 'somePa55word';
   $dbname = 'salamanders';
 
   // 1. Create a database connection
@@ -20,7 +20,7 @@
   }
 
   // 2. Perform database query
-  $query = "SELECT * FROM salamanders";
+  $query = "SELECT * FROM salamander";
   $result_set = mysqli_query($connection, $query);
 
   if (!$result_set) {
