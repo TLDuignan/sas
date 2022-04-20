@@ -20,15 +20,15 @@
     return $salamander; 
   }
 
-  function insert_salamander($name, $habitat, $description) {
+  function insert_salamander($salamander) {
     global $db;
 
     $sql = "INSERT INTO salamander ";
     $sql .= "(name, habitat, description) ";
     $sql .= "VALUES (";
-    $sql .= "'" . $name . "',";
-    $sql .= "'" . $habitat . "',";
-    $sql .= "'" . $description . "'";
+    $sql .= "'" . $salamander['name'] . "',";
+    $sql .= "'" . $salamander['habitat'] . "',";
+    $sql .= "'" . $salamander['discription'] . "'";
     $sql .= ")";
     $result = mysqli_query($db, $sql);
     
