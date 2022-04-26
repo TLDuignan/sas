@@ -7,7 +7,7 @@
   $DB_SERVER = 'localhost';
   $dbuser = '';
   $dbpass = '';
-  $dbname = 'dbqzqgvtcthjrq';
+  $dbname = '';
 
   // 1. Create a database connection
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);

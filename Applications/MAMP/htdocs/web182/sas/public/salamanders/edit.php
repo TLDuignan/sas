@@ -27,6 +27,7 @@
   $pageTitle = "Edit";
   include (SHARED_PATH . '/salamander-header.php');
 ?>
+
 <a href= "<?= url_for('/salamanders/index.php'); ?>">&laquo; Back to List</a>
 <h1>Edit Salamander</h1>
 

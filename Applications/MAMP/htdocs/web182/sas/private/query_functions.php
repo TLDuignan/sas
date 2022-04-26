@@ -42,6 +42,7 @@
     }
   }
 
+ 
   function update_salamander($salamander) {
     global $db;
 
@@ -82,5 +83,6 @@
       exit;
     }
   }
+
 
 ?>
